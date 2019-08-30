@@ -1,0 +1,14 @@
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/bin/Debug/netcoreapp2.2/app.deps.json
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/bin/Debug/netcoreapp2.2/app.runtimeconfig.json
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/bin/Debug/netcoreapp2.2/app.runtimeconfig.dev.json
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/bin/Debug/netcoreapp2.2/app.dll
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/bin/Debug/netcoreapp2.2/app.pdb
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/bin/Debug/netcoreapp2.2/mkgeofence.dll
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/bin/Debug/netcoreapp2.2/mkgeofence.pdb
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/obj/Debug/netcoreapp2.2/app.csprojAssemblyReference.cache
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/obj/Debug/netcoreapp2.2/app.csproj.CoreCompileInputs.cache
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/obj/Debug/netcoreapp2.2/app.AssemblyInfoInputs.cache
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/obj/Debug/netcoreapp2.2/app.AssemblyInfo.cs
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/obj/Debug/netcoreapp2.2/app.csproj.CopyComplete
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/obj/Debug/netcoreapp2.2/app.dll
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/app/obj/Debug/netcoreapp2.2/app.pdb

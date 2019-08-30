@@ -1,0 +1,9 @@
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/mkgeofence/obj/Debug/netstandard2.0/mkgeofence.csprojAssemblyReference.cache
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/mkgeofence/obj/Debug/netstandard2.0/mkgeofence.csproj.CoreCompileInputs.cache
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/mkgeofence/obj/Debug/netstandard2.0/mkgeofence.AssemblyInfoInputs.cache
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/mkgeofence/obj/Debug/netstandard2.0/mkgeofence.AssemblyInfo.cs
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/mkgeofence/bin/Debug/netstandard2.0/mkgeofence.deps.json
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/mkgeofence/bin/Debug/netstandard2.0/mkgeofence.dll
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/mkgeofence/bin/Debug/netstandard2.0/mkgeofence.pdb
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/mkgeofence/obj/Debug/netstandard2.0/mkgeofence.dll
+/Users/jzhao/work/geo/code-project/dotnet/mkgeofence/mkgeofence/obj/Debug/netstandard2.0/mkgeofence.pdb
